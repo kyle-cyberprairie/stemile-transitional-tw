@@ -35,7 +35,7 @@
         @vite(['resources/css/app.css', 'resources/js/app.js'])
 
     </head>
-    <body>
+    <body class="min-h-screen flex flex-col">
         <x-nav />
         {{ $slot }}
         <x-footer />

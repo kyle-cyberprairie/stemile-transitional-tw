@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+section h2 {
+    @apply mb-2 pb-2
+}
+section p {
+    @apply mb-2;
+}
+section ul {
+    @apply list-disc list-inside mb-2;
+}

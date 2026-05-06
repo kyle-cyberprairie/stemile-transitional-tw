@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const slides = rotator.querySelectorAll('.slideshowImageWrapper');
     const backBtn = document.getElementById('backBtn');
     const fwdBtn = document.getElementById('fwdBtn');
-    const pauseBtn = document.getElementById('pauseBtn');
+    
     const shortcuts = document.querySelectorAll('[id^="rotatorShortcut"]');
 
     console.log('Slider initialized with', slides.length, 'slides');
@@ -50,14 +50,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function startAutoPlay() {
         isPlaying = true;
-        pauseBtn.classList.add('rotatorPause');
+        
         autoPlayInterval = setInterval(nextSlide, 8000);
         console.log('Auto play started');
     }
 
     function stopAutoPlay() {
         isPlaying = false;
-        pauseBtn.classList.remove('rotatorPause');
+        
         clearInterval(autoPlayInterval);
         console.log('Auto play stopped');
     }
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Event listeners
     if (backBtn) backBtn.addEventListener('click', prevSlide);
     if (fwdBtn) fwdBtn.addEventListener('click', nextSlide);
-    if (pauseBtn) pauseBtn.addEventListener('click', toggleAutoPlay);
+    
 
     // Shortcut buttons
     shortcuts.forEach((shortcut, index) => {
