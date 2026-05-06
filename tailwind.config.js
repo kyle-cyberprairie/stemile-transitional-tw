@@ -10,8 +10,17 @@ export default {
         xs: '440px'
       },
       colors: {
+        'primary': '#474c64',
+        'primary-dark': '#383d50',
+        'secondary': '#dddddd',
+        'white': '#ffffff'
       },
       fontFamily: {
+        'roboto': ['Roboto', 'sans-serif'],
+        'cinzel': ['Cinzel', 'serif']
+      },
+      maxWidth: {
+        'c': '975px'
       },
       fontSize: {
       },
