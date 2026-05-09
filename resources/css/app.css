@@ -2,12 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
-section h2 {
+section h2, section h3 {
     @apply mb-2 pb-2
 }
 section p {
-    @apply mb-2;
+    @apply mb-4;
 }
 section ul {
     @apply list-disc list-inside mb-2;
+}
+section li {
+    @apply mb-3;
+}
+section a {
+    @apply text-blue-500;
 }

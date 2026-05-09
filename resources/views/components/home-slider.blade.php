@@ -32,7 +32,7 @@
         <div class="absolute inset-0 flex flex-col items-center justify-center bg-black/30 text-white text-center p-8">
             <h1 class="text-4xl md:text-5xl font-cinzel mb-4">Parish Finances</h1>
             <h2 class="text-xl md:text-2xl font-cinzel font-light mb-6">Please continue to support your parish</h2>
-            <a href="/men" class="border-white border-2 bg-transparent hover:bg-white hover:text-black px-24 py-5 text-lg transition">Explore</a>
+            <a href="/finance" class="border-white border-2 bg-transparent hover:bg-white hover:text-black px-24 py-5 text-lg transition">Explore</a>
         </div>
     </div>
 
@@ -41,7 +41,7 @@
         <div class="absolute inset-0 flex flex-col items-center justify-center bg-black/30 text-white text-center p-8">
             <h1 class="text-4xl md:text-5xl font-cinzel mb-4">Share your light</h1>
             <h2 class="text-xl md:text-2xl font-cinzel font-light mb-6">Your parish needs you!</h2>
-            <a href="/men" class="border-white border-2 bg-transparent hover:bg-white hover:text-black px-24 py-5 text-lg transition">Explore</a>
+            <a href="/ministries" class="border-white border-2 bg-transparent hover:bg-white hover:text-black px-24 py-5 text-lg transition">Explore</a>
         </div>
     </div>
     <!-- Navigation Controls -->

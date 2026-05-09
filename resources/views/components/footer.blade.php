@@ -1,4 +1,4 @@
-<div class="w-full bg-primary flex justify-center items-center mt-auto">
+<div class="w-full bg-primary flex justify-center items-center mt-auto pb-12 md:pb-0">
     <div class="w-full max-w-c flex justify-center items-center py-6">
         <div class="text-white/50 text-center">
                 556 St. Anne’s Road, Winnipeg, Manitoba&nbsp;

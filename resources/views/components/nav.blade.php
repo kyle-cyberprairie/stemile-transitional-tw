@@ -1,5 +1,12 @@
+<div class="bg-primary-dark text-center text-secondary p-2 fixed bottom-0 md:static">Our website is undergoing scheduled maintenance. Some site features are not available at this time.</div>
 <header class="w-full flex justify-center bg-primary">
-    <div class="header__container w-full max-w-c mx-auto h-[114px] relative">
+    <div class="header__container w-full max-w-c mx-auto h-[126px] relative p-4">
+        <div class="hidden md:block text-gray-300 flex  absolute p-4 left-0 top-0">
+            <a href="/contact">Contact us</a> | 
+            <a href="/docs">Bulletins</a>
+            <br>
+            <a href="/docs">Register in St. Emile Parish</a>
+        </div>
         <div class="w-full flex flex-col text-white text-center">
             <h1 class="text-2xl lg:text-4xl font-cinzel"><a href="/">St. Emile<br>Catholic Church</a></h1>
             <h2 class="text-roboto text-md font-light text-secondary">A parish in the Archdiocese of St. Boniface in Winnipeg</h2>
@@ -18,7 +25,7 @@
 </header>
 <div class="w-full flex justify-center bg-secondary">
     <!-- Hamburger Button (Mobile Only) -->
-    <button id="mobile-menu-toggle" class="md:hidden absolute right-4 top-20 z-50 flex flex-col gap-1.5">
+    <button id="mobile-menu-toggle" class="md:hidden absolute left-4 top-6 z-50 flex flex-col gap-1.5">
         <span class="w-6 h-0.5 bg-white block"></span>
         <span class="w-6 h-0.5 bg-white block"></span>
         <span class="w-6 h-0.5 bg-white block"></span>
@@ -94,6 +101,9 @@
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
                     <a href="/rcia" class="py-3 px-3 text-left">Rite of Christian Initation of Adults</a>
+                </li>
+                <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
+                    <a href="/word" class="py-3 px-3 text-left">Mass Readings & Commentary</a>
                 </li>
             </ul>
         </li>
