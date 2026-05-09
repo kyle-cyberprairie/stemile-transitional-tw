@@ -34,100 +34,100 @@
     <!-- Desktop Navigation -->
     <nav class="hidden md:flex w-full max-w-c mx-auto h-[47px] items-center justify-center list-none">
         <li class="relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-center h-full text-center basis-auto flex-1 group">
-            <a href="/" class="py-3 text-center">Home</a>
+            <a href="/" class="py-3 text-center flex-1">Home</a>
             <ul class="hidden absolute z-[200] top-[47px] left-0 w-full group-hover:block">
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a target="_blank" rel="noreferrer noopener" href="https://www.archsaintboniface.ca/index.html?lang=en" class="py-3 px-3 text-left">Archdiocese of St. Boniface</a>
+                    <a target="_blank" rel="noreferrer noopener" href="https://www.archsaintboniface.ca/index.html?lang=en" class="py-3 px-3 text-left flex-1">Archdiocese of St. Boniface</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a target="_blank" rel="noreferrer noopener" href="https://www.stemileschool.com/" class="py-3 px-3 text-left">St. Emile Catholic School</a>
+                    <a target="_blank" rel="noreferrer noopener" href="https://www.stemileschool.com/" class="py-3 px-3 text-left flex-1">St. Emile Catholic School</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a target="_blank" rel="noreferrer noopener" href="http://syromalabarwinnipeg.com/" class="py-3 px-3 text-left">St. Jude Syro-Malabar Parish</a>
+                    <a target="_blank" rel="noreferrer noopener" href="http://syromalabarwinnipeg.com/" class="py-3 px-3 text-left flex-1">St. Jude Syro-Malabar Parish</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a target="_blank" rel="noreferrer noopener" href="https://www.cccb.ca/site/index.php" class="py-3 px-3 text-left">Canadian Conference of Catholic Bishops</a>
+                    <a target="_blank" rel="noreferrer noopener" href="https://www.cccb.ca/site/index.php" class="py-3 px-3 text-left flex-1 flex-1">Canadian Conference of Catholic Bishops</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a target="_blank" rel="noreferrer noopener" href="http://w2.vatican.va/content/vatican/en.html" class="py-3 px-3 text-left">Vatican</a>
+                    <a target="_blank" rel="noreferrer noopener" href="http://w2.vatican.va/content/vatican/en.html" class="py-3 px-3 text-left flex-1">Vatican</a>
                 </li>
             </ul>
         </li>
         <li class="relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-center h-full text-center basis-auto flex-1 group">
-            <a href="/parish-life" class="py-3 text-center">Administration</a>
+            <a href="/parish-life" class="py-3 text-center flex-1">Administration</a>
             <ul class="hidden absolute z-[200] top-[47px] left-0 w-full group-hover:block">
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/contact" class="py-3 px-3 text-left">Contact Us</a>
+                    <a href="/contact" class="py-3 px-3 text-left flex-1">Contact Us</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/docs" class="py-3 px-3 text-left">Documents</a>
+                    <a href="/docs" class="py-3 px-3 text-left flex-1">Documents</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/docs" class="py-3 px-3 text-left">Bulletins</a>
+                    <a href="/docs" class="py-3 px-3 text-left flex-1">Bulletins</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/faqs" class="py-3 px-3 text-left">FAQs</a>
+                    <a href="/faqs" class="py-3 px-3 text-left flex-1">FAQs</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/finance" class="py-3 px-3 text-left">Finance</a>
+                    <a href="/finance" class="py-3 px-3 text-left flex-1">Finance</a>
                 </li>
             </ul>
         </li>
         <li class="relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-center h-full text-center basis-auto flex-1 group">
-            <a href="/sacraments" class="py-3 text-center">Sacraments</a>
+            <a href="/sacraments" class="py-3 text-center flex-1">Sacraments</a>
             <ul class="hidden absolute z-[200] top-[47px] left-0 w-full group-hover:block">
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/sacraments" class="py-3 px-3 text-left">Mass</a>
+                    <a href="/sacraments" class="py-3 px-3 text-left flex-1">Mass</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/reconciliation" class="py-3 px-3 text-left">Reconciliation</a>
+                    <a href="/reconciliation" class="py-3 px-3 text-left flex-1">Reconciliation</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/baptism" class="py-3 px-3 text-left">Baptism</a>
+                    <a href="/baptism" class="py-3 px-3 text-left flex-1">Baptism</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/marriage" class="py-3 px-3 text-left">Marriage</a>
+                    <a href="/marriage" class="py-3 px-3 text-left flex-1">Marriage</a>
                 </li>
             </ul>
         </li>
         <li class="relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-center h-full text-center basis-auto flex-1 group">
-            <a href="/faith" class="py-3 text-center">Faith & Spiritual Growth</a>
+            <a href="/faith" class="py-3 text-center flex-1">Faith & Spiritual Growth</a>
             <ul class="hidden absolute z-[200] top-[47px] left-0 w-full group-hover:block">
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/catechism" class="py-3 px-3 text-left">Children's Catechism</a>
+                    <a href="/catechism" class="py-3 px-3 text-left flex-1">Children's Catechism</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/men" class="py-3 px-3 text-left">Men</a>
+                    <a href="/men" class="py-3 px-3 text-left flex-1">Men</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/rcia" class="py-3 px-3 text-left">Rite of Christian Initation of Adults</a>
+                    <a href="/rcia" class="py-3 px-3 text-left flex-1">Rite of Christian Initation of Adults</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/word" class="py-3 px-3 text-left">Mass Readings & Commentary</a>
+                    <a href="/word" class="py-3 px-3 text-left flex-1">Mass Readings & Commentary</a>
                 </li>
             </ul>
         </li>
         <li class="relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-center h-full text-center basis-auto flex-1 group">
-            <a href="/ppc" class="py-3 text-center">PPC</a>
+            <a href="/ppc" class="py-3 text-center flex-1">PPC</a>
             <ul class="hidden absolute z-[200] top-[47px] left-0 w-full group-hover:block">
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/ministries" class="py-3 px-3 text-left">Ministries and Organizations</a>
+                    <a href="/ministries" class="py-3 px-3 text-left flex-1">Ministries and Organizations</a>
                 </li>
             </ul>
         </li>
         <li class="relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-center h-full text-center basis-auto flex-1 group">
-            <a href="/calendar-1" class="py-3 text-center">News & Events</a>
+            <a href="/calendar-1" class="py-3 text-center flex-1">News & Events</a>
             <ul class="hidden absolute z-[200] top-[47px] left-0 w-full group-hover:block">
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/calendar-1" class="py-3 px-3 text-left">Parish Calendar</a>
+                    <a href="/calendar-1" class="py-3 px-3 text-left flex-1">Parish Calendar</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/news-1" class="py-3 px-3 text-left">News</a>
+                    <a href="/news-1" class="py-3 px-3 text-left flex-1">News</a>
                 </li>
             </ul>
         </li>
         <li class="relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-center h-full text-center basis-auto flex-1 group">
-            <a href="/youth" class="py-3 text-center">Youth</a>
+            <a href="/youth" class="py-3 text-center flex-1">Youth</a>
         </li>
     </nav>
 
