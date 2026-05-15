@@ -26,7 +26,7 @@
                                 </p>
                             </x-accordion>
                             <x-accordion id="registration" title="Registration Forms">
-                                <p>Click <a class="text-blue-500" target="_blank" href="/documents/parish-registration-form.pdf">here</a> to download the parish registration form.</p>
+                                <p>Click <a class="text-blue-500" target="_blank" href="{{ asset('documents/2025/11/Registration Form 2025.pdf') }}">here</a> to download the parish registration form.</p>
                                 <p>
                                     The registration form may be printed and filled out or opened in Acrobat to be completed electronically.
                                     Submit your form to the parish in one of four ways:

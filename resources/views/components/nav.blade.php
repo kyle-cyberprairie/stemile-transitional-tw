@@ -3,9 +3,9 @@
     <div class="header__container w-full max-w-c mx-auto h-[126px] relative p-4">
         <div class="hidden md:block text-gray-300 flex  absolute p-4 left-0 top-0">
             <a href="/contact">Contact us</a> | 
-            <a href="/docs">Bulletins</a>
+            <a href="/docs#bulletins">Bulletins</a>
             <br>
-            <a href="/docs">Register in St. Emile Parish</a>
+            <a href="/docs#registration">Register in St. Emile Parish</a>
         </div>
         <div class="w-full flex flex-col text-white text-center">
             <h1 class="text-2xl lg:text-4xl font-cinzel"><a href="/">St. Emile<br>Catholic Church</a></h1>
@@ -63,7 +63,7 @@
                     <a href="/docs" class="py-3 px-3 text-left flex-1">Documents</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
-                    <a href="/docs" class="py-3 px-3 text-left flex-1">Bulletins</a>
+                    <a href="/docs#bulletins" class="py-3 px-3 text-left flex-1">Bulletins</a>
                 </li>
                 <li class="w-[270px] relative bg-secondary text-gray-600 hover:bg-white flex items-center justify-start text-left h-full text-center basis-auto flex-1">
                     <a href="/faqs" class="py-3 px-3 text-left flex-1">FAQs</a>
@@ -154,7 +154,7 @@
             <div class="bg-gray-50 hidden" id="admin-dropdown">
                 <a href="/contact" class="block py-2 px-8 text-sm text-gray-600 hover:bg-white">Contact Us</a>
                 <a href="/docs" class="block py-2 px-8 text-sm text-gray-600 hover:bg-white">Documents</a>
-                <a href="/docs" class="block py-2 px-8 text-sm text-gray-600 hover:bg-white">Bulletins</a>
+                <a href="/docs#bulletins" class="block py-2 px-8 text-sm text-gray-600 hover:bg-white">Bulletins</a>
                 <a href="/faqs" class="block py-2 px-8 text-sm text-gray-600 hover:bg-white">FAQs</a>
                 <a href="/finance" class="block py-2 px-8 text-sm text-gray-600 hover:bg-white">Finance</a>
             </div>

@@ -23,3 +23,20 @@
         </div>
     </div>
 </div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const fragment = window.location.hash.slice(1);
+        if (fragment && fragment === '{{ $id }}') {
+            const contentDiv = document.querySelector('#{{ $id }}');
+            const plusIcon = document.querySelector('#{{ $id }}-plus-icon');
+            const minusIcon = document.querySelector('#{{ $id }}-minus-icon');
+            
+            if (contentDiv) {
+                contentDiv.classList.remove('hidden');
+                if (plusIcon) plusIcon.classList.add('hidden');
+                if (minusIcon) minusIcon.classList.remove('hidden');
+            }
+        }
+    });
+</script>

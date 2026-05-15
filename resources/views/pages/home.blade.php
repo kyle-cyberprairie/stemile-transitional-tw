@@ -9,10 +9,10 @@
              href="/contact" class="w-[200px] h-[200px] flex justify-center items-center border-white border-8">
             </a>
             <a style="background-image: url('/img/home/4BtnRegister.jpg'); background-size: cover; background-position: center;"
-             href="/docs" class="w-[200px] h-[200px] flex justify-center items-center border-white border-8">
+             href="/docs#registration" class="w-[200px] h-[200px] flex justify-center items-center border-white border-8">
             </a>
             <a style="background-image: url('/img/home/4BtnBulletin.jpg'); background-size: cover; background-position: center;"
-             href="/docs" class="w-[200px] h-[200px] flex justify-center items-center border-white border-8">
+             href="/docs#bulletins" class="w-[200px] h-[200px] flex justify-center items-center border-white border-8">
             </a>
         </div>
     </section>
