@@ -9,7 +9,6 @@
                 <p>For mass times, please see the <a href="/sacraments">Sacraments</a> page.</p>
                 <p>For men's group meetings, please see the <a href="/men">Men's Faith Group</a> page.</p>
                 <p>For RCIA dates, please see the <a href="/rcia">RCIA</a> page.</p>
-                <p>Adoration of the Blessed Sacrament takes place on most Fridays from 10:00 am until approximately 11:30 am </p>
             </div>
         </div>
     </section>
