@@ -109,10 +109,11 @@
                                 <h2 class="border-b font-cinzel w-full text-2xl">PPC Minutes</h2>
                                 <p><strong>Upcoming AGM</strong></p>
                                 <ul class="list-disc list-inside">
-                                    <li><a target="_blank" href="{{ asset('documents/2025/6/St.-Emile-AGM-2025-FINAL.pdf') }}">St. Emile AGM 2025</a></li>
+                                    <li><a target="_blank" href="{{ asset('documents/2026/6/St. Emile AGM 2026.pdf') }}">Ministry and Committee Reports for 2026 AGM</a></li>    
                                 </ul>
                                 <p><strong>Annual General Meeting</strong></p>
                                 <ul class="list-disc list-inside">
+                                    <li><a target="_blank" href="{{ asset('documents/2025/6/St.-Emile-AGM-2025-FINAL.pdf') }}">Ministry and Committee Reports for 2025 AGM</a></li>
                                     <li><a target="_blank" href="{{ asset('documents/2024/6/St. Emile AGM 2024.pdf') }}">Ministry and Committee Reports for 2024 AGM</a></li>
                                     <li><a target="_blank" href="{{ asset('documents/2023/10/St. Emile AGM 2023 FINAL.pdf') }}">Ministry and Committee Reports for 2023 AGM</a></li>
                                     <li><a target="_blank" href="{{ asset('documents/2022/6/St. Emile Parish AGM 2022.pdf') }}">Ministry and Committee Reports for 2022 AGM</a></li>
