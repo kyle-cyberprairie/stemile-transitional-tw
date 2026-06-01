@@ -109,7 +109,7 @@
                                 <h2 class="border-b font-cinzel w-full text-2xl">PPC Minutes</h2>
                                 <p><strong>Upcoming AGM</strong></p>
                                 <ul class="list-disc list-inside">
-                                    <li><a target="_blank" href="{{ asset('documents/2026/6/St. Emile AGM 2026.pdf') }}">Ministry and Committee Reports for 2026 AGM</a></li>    
+                                    <li><a target="_blank" href="{{ asset('documents/2026/6/St. Emile AGM 2026.pdf') }}">St. Emile AGM 2026</a></li>    
                                 </ul>
                                 <p><strong>Annual General Meeting</strong></p>
                                 <ul class="list-disc list-inside">
