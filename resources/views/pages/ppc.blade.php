@@ -122,6 +122,7 @@
                                 </ul>
                                 <p><strong>Meeting Minutes</strong></p>
                                 <ul class="list-disc list-inside">
+                                    <li><a target="_blank" href="{{ asset('documents/2026/6/St Emile PPC Minutes - 2026-05-05.pdf') }}">May 2026 Minutes</a></li>
                                     <li><a target="_blank" href="{{ asset('documents/2026/5/St Emile PPC Minutes - 2026-02-17.docx') }}">February 2026 Minutes</a></li>
                                 </ul>
                             </x-accordion>
