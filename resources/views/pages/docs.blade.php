@@ -11,13 +11,13 @@
                             <x-accordion id="bulletins" title="Bulletins">
                                 <p>Bulletins are published weekly and are available for download here.</p>
                                 <ul class="list-disc list-inside">
+                                    <li><a class="text-blue-500" target="_blank" href="/documents/2026/7/btn2026-07-19_2026-07-26.pdf">19 July 2026 & 26 July 2026, Summer Bulletin</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/7/btn2026-07-05_2026-07-12.pdf">5 July 2026 & 12 July 2026, Summer Bulletin</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/6/btn2026-06-28.pdf">28 June 2026, Thirteenth Sunday in Ordinary Time</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/6/btn2026-06-21.pdf">21 June 2026, Twelfth Sunday in Ordinary Time</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/6/btn2026-06-14.pdf">14 June 2026, Eleventh Sunday in Ordinary Time</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/6/btn2026-06-07.pdf">07 June 2026, The Solemnity of the Body and Blood of Christ</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/5/btn2026-05-31.pdf">31 May 2026, Holy Trinity Sunday</a></li>
-                                    <li><a class="text-blue-500" target="_blank" href="/documents/2026/5/btn2026-05-24.pdf">24 May 2026, Pentecost Sunday</a></li>
                                     
                                 </ul>
                                 <p class="max-w-96">
