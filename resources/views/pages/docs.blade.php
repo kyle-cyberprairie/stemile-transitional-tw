@@ -72,9 +72,9 @@
                                 <p><strong>Note</strong>: <span class="underline">Both</span> the signed form <span class="underline">and</span> void cheque are absolutely essential.</p>
                             </x-accordion>
                             <x-accordion id="catechism" title="Catechism Registration Form">
-                                <h2 class="border-b font-cinzel w-full text-2xl">Children's Catechism 2025/26</h2>
+                                <h2 class="border-b font-cinzel w-full text-2xl">Children's Catechism 2026/27</h2>
                                 <p>Please complete form and submit it to the parish office.</p>
-                                <a class="text-blue-500" target="_blank" href="/documents/2025/8/Catechism Registration form 2025-2026.pdf">Download the Registration Form</a>                                    
+                                <a class="text-blue-500" target="_blank" href="/documents/2026/8/Catechism Registration form 2026-2027.pdf">Download the Registration Form</a>                                    
                             </x-accordion>
                             <x-accordion id="history" title="Parish History">
                                 <h2 class="border-b font-cinzel w-full text-2xl">A Brief Parish History</h2>
