@@ -11,13 +11,13 @@
                             <x-accordion id="bulletins" title="Bulletins">
                                 <p>Bulletins are published weekly and are available for download here.</p>
                                 <ul class="list-disc list-inside">
+                                    <li><a class="text-blue-500" target="_blank" href="/documents/2026/9/btn2026-09-06.pdf">06 September 2026, Twenty-Third Sunday in Ordinary Time</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/8/btn2026-08-30.pdf">30 August 2026, Twenty-Second Sunday in Ordinary Time</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/8/btn2026-08-16_2026-08-23.pdf">16 August 2026 & 23 August 2026, Summer Bulletin</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/8/btn2026-08-02_2026-08-09.pdf">02 August 2026 & 09 August 2026, Summer Bulletin</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/7/btn2026-07-19_2026-07-26.pdf">19 July 2026 & 26 July 2026, Summer Bulletin</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/7/btn2026-07-05_2026-07-12.pdf">05 July 2026 & 12 July 2026, Summer Bulletin</a></li>
                                     <li><a class="text-blue-500" target="_blank" href="/documents/2026/6/btn2026-06-28.pdf">28 June 2026, Thirteenth Sunday in Ordinary Time</a></li>
-                                    <li><a class="text-blue-500" target="_blank" href="/documents/2026/6/btn2026-06-21.pdf">21 June 2026, Twelfth Sunday in Ordinary Time</a></li>
                                 </ul>
                                 <p class="max-w-96">
                                     To have an announcement published in the bulletin, 
